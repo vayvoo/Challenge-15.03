@@ -145,11 +145,11 @@ table {
 body{
     font-family: 'Rubik';
     font-size: 15px;
+    max-width: 1440px;
     margin-left: auto;
     margin-right: auto;
 }
 .header{
-    max-width: 1440px;
     background-color: #F6F6F9;
     padding-top: 47px;
     padding-bottom: 22px;
