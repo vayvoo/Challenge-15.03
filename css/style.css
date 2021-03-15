@@ -183,7 +183,7 @@ body{
 .logo:hover{
     border: 1px solid #295091;
 }
-.currency, .currency-type{
+.currency-type{
     margin-left: 17px;
 }
 .currency-type{
