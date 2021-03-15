@@ -205,7 +205,6 @@ body{
     font-weight: 550;
     font-size: 16px;
     line-height: 19px;
-
     color: #535353;
 }
 .search{
@@ -220,16 +219,12 @@ body{
     border-radius: 5px;
     background-color: #fff;
 }
-.search:hover{
-    border: 1px solid #285193;
-}
+
 .lang{
     margin-left: 20px;
     background-color: #fff;
 }
-.lang-ru{
-    
-}
+
 .ru-icon{
     border-radius: 50%;
     margin-right: 5px;
@@ -272,7 +267,4 @@ body{
 }
 .top-banner{
     border: 1px solid #fff;
-}
-.top-banner:hover{
-    border: 1px solid #285193;
 }
