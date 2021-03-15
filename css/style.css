@@ -145,10 +145,8 @@ table {
 body{
     font-family: 'Rubik';
     font-size: 15px;
-    max-width: 1440px;
     border-top: 4px solid #295091;
-    margin-left: auto;
-    margin-right: auto;
+    
 }
 .header{
     background-color: #F6F6F9;
@@ -156,11 +154,13 @@ body{
     padding-bottom: 22px;
 }
 .container{
+    max-width: 1200px;
     padding-left: 119px;
     padding-right: 121px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .top{
-    width: 100%;
     display: flex;
     align-items: center;
     justify-content: space-between;
