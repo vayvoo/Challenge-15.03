@@ -146,6 +146,7 @@ body{
     font-family: 'Rubik';
     font-size: 15px;
     max-width: 1440px;
+    border-top: 5px solid #295091;
     margin-left: auto;
     margin-right: auto;
 }
